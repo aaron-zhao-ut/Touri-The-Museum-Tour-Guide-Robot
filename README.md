@@ -65,7 +65,13 @@ turn will encourage more visitors to the museums.
 <!-- CONTACT -->
 ## Contact
 
-Aaron Zhao - zzh.zhao@mail.utoronto.ca
+Zihan (Aaron) Zhao[Lead] - zzh.zhao@mail.utoronto.ca
+
+Jingfeng (Eric) Chen - jingfeng.chen@mail.utoronto.ca
+
+John Courtney - jcourtne@tcd.ie
+
+Momin Mehmood - s1406615@sms.ed.ac.uk
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
